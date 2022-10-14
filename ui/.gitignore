@@ -1,0 +1,11 @@
+/debug
+debug/*
+/DEBUG
+DEBUG/*
+/RELEASE
+RELEASE/*
+*.o
+*.pro.*
+*.cpp.autosave
+
+
